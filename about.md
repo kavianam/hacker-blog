@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+I'm Kavian AmirMozafari MSc Student at the Sharif University of Technology studying computer security.
